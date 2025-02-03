@@ -6,3 +6,11 @@ p{
 h1{
     font-size: 10px;
 }
+
+h2{
+    color: green;
+}
+
+h3{
+    align-self: start;
+}
